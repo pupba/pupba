@@ -35,6 +35,30 @@ My main areas of interest include:
 
 ## 🔭 Featured Projects
 
+### [Rabbit-Hole](https://github.com/pupba/Rabbit-Hole)
+[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![ComfyUI-Inspired](https://img.shields.io/badge/Inspired%20by-ComfyUI-yellow)](https://github.com/comfyanonymous/ComfyUI)
+[![CUDA](https://img.shields.io/badge/CUDA-12.4-green?logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
+[![License](https://img.shields.io/github/license/pupba/Rabbit-Hole?style=flat)](https://github.com/pupba/Rabbit-Hole/blob/main/LICENSE)
+
+A modular, production-ready image generation pipeline inspired by ComfyUI but designed for MLOps, automation, and large-scale batch workflows.  
+- Pythonic, class-based pipeline definition (Executors, Tunnels, Tools)
+- YAML config for reproducibility
+- Easy extension and custom models
+- Built for enterprise/research/automation
+
+
+### [BAGEL-DFloat11-Windows](https://github.com/pupba/BAGEL-DFloat11-Windows)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![CUDA](https://img.shields.io/badge/CUDA-12.4-green?logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
+[![Torch](https://img.shields.io/badge/Torch-2.6.0+-orange?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![License](https://img.shields.io/github/license/pupba/BAGEL-DFloat11-Windows?style=flat)](https://github.com/pupba/BAGEL-DFloat11-Windows/blob/main/LICENSE)
+
+A Windows-adapted repo for running **BAGEL-DFloat11** models with full CUDA 12.4 and RTX 4090 support.  
+- Windows support for DFloat11-based multimodal LLMs (e.g., BAGEL)
+- Easy setup with all required wheels and install scripts
+- For researchers and developers looking for fast, high-precision LLMs on Windows
+
 ### [LangChain-OpenTutorial](https://github.com/pupba/LangChain-OpenTutorial)
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-🦜-orange)](https://github.com/langchain-ai/langchain)
@@ -54,7 +78,6 @@ More contributions are planned in the future!
 
 A custom node for **ComfyUI** designed to support batch-based processing within workflows.  
 It enables users to iterate over input lists during generation and can be deployed on **AWS**, where it integrates with **EventBridge** to handle batch-completion or error notifications.
-
 
 
 ---
