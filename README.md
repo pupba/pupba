@@ -22,7 +22,7 @@
 ## 🐇 About Me
 
 Hi! I'm **Gwangwon Jung**,  
-a Vision AI & Generative AI engineer at **StudioM**.
+a Vision AI & Generative AI engineer.
 
 My main areas of interest include:
 
